@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Adriel 👋
 
-<!--
-**Mateiadrielrafael/Mateiadrielrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Actual text -->
 
-Here are some ideas to get you started:
+You can find me on [![Twitter][1.2]][1] or [![Discord][2.2]][2].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://img.icons8.com/material/20/000000/discord-logo--v1.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/yugiohxlight
+[2]: https://discordapp.com/users/385759924917108740
