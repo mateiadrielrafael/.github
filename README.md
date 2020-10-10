@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adriel</h1>
 <h3 align="center">Functional programming enthusiast</h3>
 
-- 🌱 I’m currently learning **about dependent types**
+- 🌱 I’m currently learning about **algebra driven design**
 
 - 💬 Ask me anything about **PureScript and TypeScript**
 
@@ -28,8 +28,9 @@
 </p>
 
 ---
-
+<!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateiadrielrafael&layout=compact&hide=html" alt="mateiadrielrafael" /></p>
+-->
 
 <p align="center">
 <a href="https://dev.to/mateiadrielrafael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mateiadrielrafael" height="30" width="30" /></a>
