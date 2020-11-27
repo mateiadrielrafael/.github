@@ -8,7 +8,7 @@
 - 💻 My favorite Linux distribution is **NixOS**
 
 <!-- - 💌 I simp **monads** -->
-- 💌 I spread lambda calculus propaganda
+- 💌 I spread **lambda calculus** propaganda
 
 ---
 
