@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adriel</h1>
 <h3 align="center">Functional programming enthusiast</h3>
 
-- 🌱 I’m currently learning about **algebra driven design**
+<!-- - 🌱 I’m currently learning about **algebra driven design** -->
 
 - 💬 Ask me anything about **PureScript and TypeScript**
 
