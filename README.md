@@ -10,6 +10,7 @@
 <!-- - 💌 I simp **monads** -->
 - 💌 I spread **lambda calculus** propaganda
 
+<!--
 ---
 
 <p align="center">
@@ -25,10 +26,11 @@
 <!-- <img alt="Snowpack" src="https://camo.githubusercontent.com/8d0b65b385a5a44bdc578b9b485de10624e81039/68747470733a2f2f7777772e736e6f777061636b2e6465762f696d672f6c6f676f2e706e67" height="48" /> -->
 <img alt="Sass" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="48" />
 <img alt="React" src="https://cdn.worldvectorlogo.com/logos/react.svg" height="48" />
-<!-- <img alt="Css" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="48" /> -->
+<!-- <img alt="Css" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="48" /> --\>
 </p>
 
 ---
+-->
 <!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateiadrielrafael&layout=compact&hide=html" alt="mateiadrielrafael" /></p>
 -->
