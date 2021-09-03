@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adriel</h1>
 <h3 align="center">Functional programming enthusiast</h3>
 
-<!-- - 🌱 I’m currently learning about **algebra driven design** -->
+<div align=center>
+  
+[![Adriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateiadrielrafael)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Ask me anything about **PureScript and TypeScript**
-
-- 💻 My favorite Linux distribution is **NixOS**
-
-<!-- - 💌 I simp **monads** -->
-- 💌 I spread **lambda calculus** propaganda
+</div>
 
 <!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateiadrielrafael&layout=compact&hide=html" alt="mateiadrielrafael" /></p>
